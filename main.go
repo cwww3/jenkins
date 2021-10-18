@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main(){
-  fmt.Println("Hello Jenkins--test hook4")
+  fmt.Println("Hello Jenkins--test hook5")
 }
